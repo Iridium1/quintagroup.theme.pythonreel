@@ -448,10 +448,10 @@ img.tileImage {
     z-index: 999;
 }
 #portal-header:before {
-    border: 7px solid #00a19a;
-    border: 7px solid rgba(0, 161, 154, 0.75);
-    border-radius: 0 0 7px 7px;
-    box-shadow: 0 1px rgba(0, 161, 154, 0.9);
+    border: 7px solid #EE9634;
+    border: 7px solid rgba(238, 150, 52, 1);
+    border-radius: 0 0 0px 0px;
+    box-shadow: 0 1px rgba(238, 150, 52, 1);
     content: "";
     display: block;
     margin: -9px 0 0;
