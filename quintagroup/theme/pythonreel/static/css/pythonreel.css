@@ -850,7 +850,7 @@ div.field.error {
     color: #ffffff; /* Changed by A. Sier from #00a19a 2015-11-11 */
     font-size: 1em; /* Changed by A. Sier from 0.77em 2015-11-11 */
 	background-color: #EE9634; /* Added by A. Sier 2015-11-11 */
-    padding-right: 135px;
+/*    padding-right: 135px; Suppressed by A. Sier 2016-01-21 */
 }
 /* Added code to force footer links (class=flink) to remain white, except in hover or active. Added by A. Sier 2015-11-11 */ 
 a.flink:link {
