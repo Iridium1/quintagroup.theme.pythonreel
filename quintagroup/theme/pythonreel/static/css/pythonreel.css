@@ -1,10 +1,13 @@
+/* Suppressed by A Sier, 2016-01-18
 @font-face {
     font-family: 'yorkvilleregular';
     src: url("../fonts/yorkville-webfont.eot");
     src: url("../fonts/yorkville-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/yorkville-webfont.woff") format("woff"), url("../fonts/yorkville-webfont.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
-}
+}  */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans); /* Added by A Sier, 2016-01-18 */
 
 @media screen {
     /* normalize.css v1.0.1 | MIT License | git.io/normalize */article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {
