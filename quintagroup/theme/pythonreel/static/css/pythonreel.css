@@ -416,11 +416,13 @@ pre {
     clear: left;
     float: left;
     margin: 0.5em 1em 0.5em 0;
+	border: 0; /* Added by A. Sier 2016-01-18 */
 }
 .image-right {
     clear: right;
     float: right;
     margin: 0.5em 0 0.5em 1em;
+	border: 0; /* Added by A. Sier 2016-01-18 */	
 }
 .image-inline {
     float: none;
