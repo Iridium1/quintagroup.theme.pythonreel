@@ -367,6 +367,13 @@ pre {
     padding: 1em;
     overflow-x: auto;
 }
+/* Add styling for hr elements - A. Sier, 2016-01-22 */
+hr {
+	height:1px;
+	border-width:0;
+	color:#ccc;
+	background-color:#ccc;
+}
 .documentDescription {
     color: #2c77b1; /* Changed from #00a19a to #2c77b1 by A. Sier 2015-11-13 */
     font-size: 16px;
