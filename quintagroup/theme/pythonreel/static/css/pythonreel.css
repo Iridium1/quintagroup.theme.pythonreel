@@ -484,7 +484,7 @@ img.tileImage {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    padding-right: 24px;
+    padding-right: 0px; /* Changed by A. Sier 2016-02-01 */
 }
 #portal-column-content.position-1\3a 4 {
     padding-left: 24px;
