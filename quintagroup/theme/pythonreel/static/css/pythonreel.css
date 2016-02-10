@@ -793,7 +793,7 @@ div.field.error {
     font-weight: bold; /* A. Sier by 2016-02-10 */
 	max-width: 50%;
     vertical-align: top;
-    margin-top: 25px; /* Changed from 105 to 25px by A. Sier 2015-11-11 */
+    margin-top: 30px; /* by A. Sier 2016-02-10 */
 }
 #portal-path,
 #visual-portal-wrapper > .panels {
