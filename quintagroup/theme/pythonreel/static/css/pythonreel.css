@@ -789,8 +789,9 @@ div.field.error {
 #slogan {
     color: #2c77b1; /* Changed from #00a19a to #2c77b1 by A. Sier 2015-11-13 */
     display: inline-block;
-    font: 2.23em/1em yorkvilleregular, sans-serif; 
-    max-width: 50%;
+    font: 1.6em/1em yorkvilleregular, sans-serif; /* Changed font size from 2.23 to 1.6em, A. Sier 2016-02-10 */
+    font-weight: bold; /* A. Sier by 2016-02-10 */
+	max-width: 50%;
     vertical-align: top;
     margin-top: 25px; /* Changed from 105 to 25px by A. Sier 2015-11-11 */
 }
