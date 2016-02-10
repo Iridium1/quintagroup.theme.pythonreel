@@ -545,7 +545,7 @@ div.field.error {
 	font-size:16px; /* Added by A. Sier 2016-21-01 */
     font-weight:bold;  /* Added by A. Sier 2016-22-01 */
 	line-height: 1.18em;
-    margin: 4px 0;
+    margin: 4px 0 10px; /* Added a 10px bottom margin. A Sier 2016-02-10 */
     padding: 0;
     /* text-transform: lowercase; Suppressed by A. Sier 2015-11-11 */
     }
