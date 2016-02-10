@@ -851,6 +851,37 @@ div.field.error {
 #portal-personaltools li a:hover {
     background-color: transparent;
 }
+/* Added code to control layout of div elements - box1-3 - on web home page. A. Sier 2016-02-10 */
+/* #container {
+	display:inline-block;
+	margin:auto;
+	border: solid;
+	border-width: 1px;
+}
+*/
+#box1 {
+    width: 28%;
+    border: 1px solid;
+    padding: 10px;
+	position: relative;
+	float: left;
+	margin-right: 42px;
+}
+#box2 {
+    width: 28%;
+    border: 1px solid;
+	padding: 10px;
+	position: relative;
+	float: left;
+    margin-right: 42px;
+}
+#box3 {
+    width: 28%;
+	border: 1px solid;
+	padding: 10px;
+	position: relative;
+	float: left;
+}
 #portal-bottom {
     clear: both;
     margin: auto;
@@ -2693,6 +2724,22 @@ a:focus {
     margin: 0 16px;
     width: auto;
     }
+#box1 {
+	float: none;
+	width: auto;
+	margin-right: 0;
+	margin-bottom: 10px;
+}
+#box2 {
+	float: none;
+	width: auto;
+	margin-right: 0;
+	margin-bottom: 10px;
+}
+#box3 {
+	float: none;
+	width: auto;
+}
 article.vevent {
     padding: 1em 0 0 0;
     }
