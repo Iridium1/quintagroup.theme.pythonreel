@@ -779,7 +779,7 @@ div.field.error {
 /* Reduced top margin of logo */
 #portal-logo {
     display: inline-block;
-    margin: 0 75px 0 0; /* Changed top margin (first value) from 35px to 0px by A. Sier 2015-11-11 */
+    margin: 0 30px 0 0; /* Changed top margin (first value) from 35px to 0px by A. Sier 2015-11-11. Changed right margin to 30px 2016-02-10 */
     vertical-align: top;
 }
 #portal-logo img {
