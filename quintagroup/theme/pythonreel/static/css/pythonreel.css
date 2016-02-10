@@ -458,7 +458,7 @@ img.tileImage {
     width: 960px;
 }
 #portal-header {
-    padding: 0 0 33px;
+    padding: 0 0 10px; /* Changed bottom padding to 10px. A Sier 2016-02-10 */
 }
 #portal-top {
     z-index: 999;
