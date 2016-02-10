@@ -695,7 +695,7 @@ div.field.error {
     position: absolute;
     z-index: 9999;
     right: 0;
-    top: 52px;
+    top: 60px; /* Changed by A. Sier 2016-02-10 */
     }
 #portal-personaltools-wrapper {
     position: absolute;
