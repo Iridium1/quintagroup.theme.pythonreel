@@ -180,7 +180,8 @@
         <drop css:content="#plone-contentmenu-factories li a img" />
 
         <!-- Footer -->
-        <replace css:content="#portal-footer-wrapper .panels" css:theme="#portal-footer-wrapper .panels" />
+        <after css:theme-children="#portal-bottom" css:content="#analytics" />
+		<replace css:content="#portal-footer-wrapper .panels" css:theme="#portal-footer-wrapper .panels" />
         <replace css:content="#portal-footer" css:theme="#portal-footer" />
         <replace css:content="#portal-colophon" css:theme="#portal-colophon" />
         <replace css:content=".manage-panels-link" css:theme=".manage-panels-link" />
